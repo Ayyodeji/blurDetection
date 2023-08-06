@@ -6,7 +6,7 @@ This repository contains a blur detection project that focuses on classifying im
 
 ## Dataset
 
-The dataset used in this project is the ``` ["blur-dataset"](https://www.kaggle.com/kwentar/blur-dataset) ```markdownfrom Kaggle. It consists of three types of images: sharp images, defocused images, and motion-blurred images. The goal is to build a model that can distinguish between these categories based on features extracted from the images' edges.
+The dataset used in this project is the ``` ["blur-dataset"](https://www.kaggle.com/kwentar/blur-dataset) ``` from Kaggle. It consists of three types of images: sharp images, defocused images, and motion-blurred images. The goal is to build a model that can distinguish between these categories based on features extracted from the images' edges.
 
 ## Project Structure
 
