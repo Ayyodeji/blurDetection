@@ -13,7 +13,7 @@ The dataset used in this project is the ``` ["blur-dataset"](https://www.kaggle.
 The project is organized as follows:
 
 - `script/`: Contains Python script for data exploration, feature extraction, model training, and evaluation.
-- `models/`: Contains saved model checkpoints.
+- `models/`: Contains saved model.
 
 ## How to Use
 
