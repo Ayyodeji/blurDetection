@@ -1,6 +1,6 @@
 # blurDetection
 
-# Multi-Classification Blur Detection Project
+# Multi-Classification Blur Detection
 
 This repository contains a blur detection project that focuses on classifying images into sharp, defocused, and motion-blurred categories. The project utilizes a dataset from Kaggle called "blur-dataset" to train a convolutional neural network (CNN) for accurate blur detection.
 
